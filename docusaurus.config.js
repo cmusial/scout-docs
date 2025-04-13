@@ -33,7 +33,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es', 'fr', 'de', 'it', 'ja', 'ko', 'pt', 'ru', 'zh'],
   },
 
   presets: [
@@ -89,6 +89,10 @@ const config = {
           {
             label: 'Scout App',
             href: 'https://scout.solaceintegrations.com',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right'
           },
           /*
           {
