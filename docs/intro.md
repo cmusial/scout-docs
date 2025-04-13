@@ -2,46 +2,56 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Welcome to Scout
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Scout is your intelligent business discovery platform, designed to help you find and track businesses that matter to you. Whether you're looking for new opportunities, monitoring market changes, or researching competitors, Scout provides powerful tools to make your search efficient and effective.
+
+## Key Features
+
+### Reports
+Create detailed reports to organize and analyze business data:
+- Save and organize your business searches
+- Filter and sort results to find exactly what you need
+- Export data to CSV for further analysis
+- Print reports for offline review
+
+[Learn more about Reports →](reports/create-a-report.md)
+
+### Alerts
+Stay informed about new business opportunities:
+- Set up custom alerts based on your search criteria
+- Receive notifications when new businesses match your interests
+- Monitor specific locations or industries
+- Never miss an important business opportunity
+
+[Learn more about Alerts →](alerts/create-alert.md)
+
+### AI Assistant
+Search for businesses using natural language:
+- Ask questions in plain English
+- Get instant, relevant results
+- Refine your search with follow-up questions
+- Discover businesses you might have missed with traditional search
+
+[Learn more about AI Assistant →](ai-assistant/getting-started.md)
 
 ## Getting Started
 
-Get started by **creating a new site**.
+1. Log in to your Scout account
+2. Choose your preferred way to search:
+   - Use the AI Assistant for natural language queries
+   - Create a report for detailed, structured searches
+   - Set up alerts to monitor for new opportunities
+3. Save your findings and share them with your team
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## See Scout in Action
 
-### What you'll need
+Watch this video to see how Scout can help you discover and track businesses:
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9Bl4vm_2v0" title="Scout Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Generate a new site
+## What's Next?
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+- [Create your first report](reports/create-a-report.md)
+- [Set up your first alert](alerts/create-alert.md)
+- [Try the AI Assistant](ai-assistant/getting-started.md)
