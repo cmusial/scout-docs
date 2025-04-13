@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: Introduction to Scout
 ---
 
-![Scout Logo](/img/docusaurus.png)
+<img src="/img/scout.png" style={{ width: '200px' }} />
 
 # Welcome to Scout
 

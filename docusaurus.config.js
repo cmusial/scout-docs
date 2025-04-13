@@ -87,7 +87,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            label: 'Scout App',
+            label: 'Scout Login',
             href: 'https://scout.solaceintegrations.com',
           },
           {
@@ -113,7 +113,7 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Scout App',
+                label: 'Scout Login',
                 href: 'https://scout.solaceintegrations.com',
               },
             ],
