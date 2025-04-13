@@ -2,42 +2,62 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Create an Alert
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Learn how to create an alert
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+## Accessing the Alerts Page
 
-## Create your first React Page
+1. Log in to your Scout account
+2. Click on the "Alerts" tab in the main navigation menu
+3. Click the "Create New Alert" button in the top right corner
 
-Create a file at `src/pages/my-react-page.js`:
+![Access Alerts Page](/img/docusaurus.png)
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+## Setting Up Your Alert
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+When creating a new alert, you'll need to provide the following information:
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+### Alert Name
+Give your alert a descriptive name that will help you identify it later.
 
-## Create your first Markdown Page
+### Search Criteria
+Enter the business information you want to monitor for:
+- Business name patterns
+- Industry type
+- Business size
+- Other relevant identifiers
 
-Create a file at `src/pages/my-markdown-page.md`:
+### Tags
+Add relevant tags to help organize and categorize your alerts. Tags make it easier to manage multiple alerts.
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+### Location
+Define the geographic area you want to monitor:
+- City
+- State
+- Zip code
+- Or a specific radius around a location
 
-This is a Markdown page
-```
+### Notification Settings
+Choose how you want to be notified when new businesses match your criteria:
+- Email notifications
+- Frequency of updates
+- Time of day for notifications
 
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+![Alert Form](/img/docusaurus.png)
+
+## Submitting Your Alert
+
+Once you've filled in all the necessary information:
+
+1. Review your entries to ensure everything is correct
+2. Click the "Submit" button to create your alert
+3. You'll be redirected to your alerts list where you can see the newly created alert
+
+![Submit Button](/img/docusaurus.png)
+
+## What's Next?
+
+- [View your alerts](view-alerts.md)
+- [Edit an existing alert](edit-alert.md)
+- [Manage alert notifications](manage-notifications.md)

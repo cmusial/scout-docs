@@ -1,60 +1,67 @@
 ---
 sidebar_position: 5
-sidebar_label: Introduction to Scout
+sidebar_label: Roadmap
 ---
 
-![Scout Logo](/img/docusaurus.png)
+# Scout Roadmap
 
-# Welcome to Scout
+Here's what we're working on to make Scout even better for you. We're constantly improving our platform based on your feedback and needs.
 
-Scout is your intelligent business discovery platform, designed to help you find and track businesses that matter to you. Whether you're looking for new opportunities, monitoring market changes, or researching competitors, Scout provides powerful tools to make your search efficient and effective.
+## Upcoming Features
 
-## Key Features
+### Enhanced Collaboration
+- **Reports and Alerts Sharing**
+  - Share reports with team members
+  - Collaborate on alert configurations
+  - Set permissions for shared content
+  - Track changes and updates
 
-### Reports
-Create detailed reports to organize and analyze business data:
-- Save and organize your business searches
-- Filter and sort results to find exactly what you need
-- Export data to CSV for further analysis
-- Print reports for offline review
+### Data Improvements
+- **Improved Phone URL Retrieval**
+  - More accurate business contact information
+  - Enhanced phone number verification
+  - Better data quality assurance
 
-[Learn more about Reports →](reports/create-a-report.md)
+- **Business Licensing Information**
+  - Access to business license details
+  - License status tracking
+  - Expiration date monitoring
+  - License type categorization
 
-### Alerts
-Stay informed about new business opportunities:
-- Set up custom alerts based on your search criteria
-- Receive notifications when new businesses match your interests
-- Monitor specific locations or industries
-- Never miss an important business opportunity
+- **Business Name Change History**
+  - Track historical business names
+  - View name change dates
+  - Access previous business information
+  - Understand business evolution
 
-[Learn more about Alerts →](alerts/create-alert.md)
+- **Alerts History**
+  - View past alert notifications
+  - Track alert performance over time
+  - Analyze alert hit rates
+  - Export alert history data
 
-### AI Assistant
-Search for businesses using natural language:
-- Ask questions in plain English
-- Get instant, relevant results
-- Refine your search with follow-up questions
-- Discover businesses you might have missed with traditional search
+### Geographic Expansion
+- **New State Coverage**
+  - Connecticut business data
+  - New Jersey business data
+  - State-specific business information
+  - Local compliance details
 
-[Learn more about Scout Assistant →](assistant/getting-started.md)
+## Timeline
 
-## Getting Started
+We're working hard to bring these features to you as quickly as possible. While we can't provide exact release dates, here's our general priority order:
 
-1. Log in to your Scout account
-2. Choose your preferred way to search:
-   - Use the AI Assistant for natural language queries
-   - Create a report for detailed, structured searches
-   - Set up alerts to monitor for new opportunities
-3. Save your findings and share them with your team
+1. Connecticut and New Jersey Coverage
+2. Reports and Alerts Sharing
+3. Business Licensing Information
+4. Improved Phone URL Retrieval
+5. Business Name Change History
+6. Alerts History
 
-## See Scout in Action
+## Stay Updated
 
-Watch this video to see how Scout can help you discover and track businesses:
+We'll keep this page updated as we make progress on these features. Check back regularly for updates on our development progress.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B9Bl4vm_2v0" title="Scout Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Have Suggestions?
 
-## What's Next?
-
-- [Create your first report](reports/create-a-report.md)
-- [Set up your first alert](alerts/create-alert.md)
-- [Try the Scout Assistant](assistant/getting-started.md)
+We're always looking for ways to improve Scout. If you have ideas for features you'd like to see, please [contact our support team](mailto:info@solaceintegrations.com).

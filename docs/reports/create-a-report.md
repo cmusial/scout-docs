@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Create a Report
 
-This guide will walk you through the process of creating a new report in Scout. Reports allow you to save and organize your business searches for future reference.
+Learn how to create a report.
 
 ## Accessing the Reports Page
 
