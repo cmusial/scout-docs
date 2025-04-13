@@ -3,6 +3,11 @@
  * and scoped locally.
  */
 
+:root {
+  --bg-layer: rgba(0, 0, 0, 0.5);
+  /* or any color or background image */
+}
+
 /* Container */
 .container {
   max-width: 1200px;
@@ -12,16 +17,31 @@
 
 /* Hero Section */
 .heroSection {
-  background: linear-gradient(135deg, #1a237e 0%, #0d47a1 100%);
+  background: url("/img/adobe-min.webp") no-repeat center center / cover;
   color: white;
   padding: 4rem 0;
   text-align: center;
+  position: relative; /* Ensure content is above the overlay */
+ /* Raise content above any background overlay */
 }
 
 .heroContent {
   max-width: 800px;
   margin: 0 auto;
   padding: 0 1rem;
+  z-index: 999;
+  position: relative;
+}
+
+.heroSection:before {
+  content: "";
+  background: var(--bg-layer); /* Make sure --bg-layer is defined */
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1; /* Ensure it's behind the content */
 }
 
 .heroTag {

@@ -20,7 +20,6 @@ function HeroSection() {
   return (
     <section className={styles.heroSection}>
       <div className={styles.heroContent}>
-        <p className={styles.heroTag}>Introducing</p>
         <img src="/img/scout.png" alt="Scout Logo" className={styles.logo} />
         <h1 className={styles.heroTitle}>Meet Scout</h1>
         <p className={styles.heroDescription}>
