@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscout_docs=self.webpackChunkscout_docs||[]).push([[5958],{2824:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/ko/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
