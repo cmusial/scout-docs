@@ -1,0 +1,242 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+/* Container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Hero Section */
+.heroSection {
+  background: linear-gradient(135deg, #1a237e 0%, #0d47a1 100%);
+  color: white;
+  padding: 4rem 0;
+  text-align: center;
+}
+
+.heroContent {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.heroTag {
+  color: #61dafb;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.logo {
+  max-width: 200px;
+  height: auto;
+  margin: 2rem 0;
+}
+
+.heroTitle {
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+.heroDescription {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+/* Features Section */
+.featuresSection {
+  padding: 4rem 0;
+  background: #f8f9fa;
+}
+
+.sectionHeader {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.sectionSubtitle {
+  color: #61dafb;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.sectionTitle {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #1a237e;
+}
+
+.featuresGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.featureCard {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
+}
+
+.featureCard:hover {
+  transform: translateY(-5px);
+}
+
+.featureIcon {
+  font-size: 3rem;
+  color: #1a237e;
+  margin-bottom: 1.5rem;
+  display: block;
+}
+
+.featureContent {
+  text-align: center;
+}
+
+.featureContent h3 {
+  font-size: 1.5rem;
+  color: #1a237e;
+  margin-bottom: 1rem;
+}
+
+.featureContent p {
+  color: #666;
+  line-height: 1.6;
+}
+
+/* Search Section */
+.searchSection {
+  padding: 4rem 0;
+  background: white;
+}
+
+.searchContent {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.searchInfo {
+  padding-right: 2rem;
+}
+
+.searchCriteria {
+  list-style: none;
+  padding: 0;
+  margin: 2rem 0;
+}
+
+.searchCriteria li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+  color: #666;
+}
+
+.criteriaIcon {
+  color: #61dafb;
+  margin-right: 1rem;
+  font-size: 1.2rem;
+}
+
+.searchForm {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.formContent {
+  padding: 2rem;
+}
+
+.formContent h3 {
+  font-size: 1.5rem;
+  color: #1a237e;
+  margin-bottom: 2rem;
+}
+
+.formGroup {
+  margin-bottom: 1.5rem;
+}
+
+.formGroup label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #666;
+  font-weight: 600;
+}
+
+.formRow {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.orDivider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #666;
+  font-weight: 600;
+}
+
+.switches {
+  display: flex;
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.switchGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.switchGroup label {
+  color: #666;
+  font-weight: 600;
+}
+
+.submitButton {
+  width: 100%;
+  margin-top: 1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .searchContent {
+    grid-template-columns: 1fr;
+  }
+
+  .searchInfo {
+    padding-right: 0;
+  }
+
+  .heroTitle {
+    font-size: 2.5rem;
+  }
+
+  .sectionTitle {
+    font-size: 2rem;
+  }
+
+  .switches {
+    flex-direction: column;
+    gap: 1rem;
+  }
+}
