@@ -61,4 +61,3 @@ You can filter your data based on specific criteria:
 
 - [Create a new report](create-a-report.md)
 - [View your reports](view-reports.md)
-- [Share reports with team members](share-reports.md)

@@ -46,5 +46,3 @@ To see the full details of a report:
 ## What's Next?
 
 - [Create a new report](create-a-report.md)
-- [Edit an existing report](edit-report.md)
-- [Share reports with team members](share-reports.md)

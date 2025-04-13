@@ -61,5 +61,3 @@ Once you've filled in all the necessary information:
 ## What's Next?
 
 - [View your reports](view-reports.md)
-{/* - [Edit an existing report](edit-report.md)*/}
-- [Share reports with team members](share-reports.md)
