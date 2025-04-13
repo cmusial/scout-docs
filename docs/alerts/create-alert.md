@@ -58,6 +58,5 @@ Once you've filled in all the necessary information:
 
 ## What's Next?
 
-- [View your alerts](view-alerts.md)
-- [Edit an existing alert](edit-alert.md)
-- [Manage alert notifications](manage-notifications.md)
+- [How to Receive Alerts](receiving-alerts.md)
+

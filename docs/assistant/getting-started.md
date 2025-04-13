@@ -82,6 +82,5 @@ The Assistant will help you create an alert with:
 
 ## What's Next?
 
-- [View your search history](search-history.md)
 - [Manage your alerts](alerts/create-alert.md)
 - [Access your reports](reports/view-reports.md)
