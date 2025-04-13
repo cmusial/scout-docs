@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+![Scout Logo](/img/docusaurus.png)
+
 # Welcome to Scout
 
 Scout is your intelligent business discovery platform, designed to help you find and track businesses that matter to you. Whether you're looking for new opportunities, monitoring market changes, or researching competitors, Scout provides powerful tools to make your search efficient and effective.
