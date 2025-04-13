@@ -33,7 +33,7 @@ Search for businesses using natural language:
 - Refine your search with follow-up questions
 - Discover businesses you might have missed with traditional search
 
-[Learn more about AI Assistant →](ai-assistant/getting-started.md)
+[Learn more about Scout Assistant →](assistant/getting-started.md)
 
 ## Getting Started
 
@@ -54,4 +54,4 @@ Watch this video to see how Scout can help you discover and track businesses:
 
 - [Create your first report](reports/create-a-report.md)
 - [Set up your first alert](alerts/create-alert.md)
-- [Try the AI Assistant](ai-assistant/getting-started.md)
+- [Try the Scout Assistant](assistant/getting-started.md)
