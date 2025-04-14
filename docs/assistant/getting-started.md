@@ -84,5 +84,5 @@ The Assistant will help you create an alert with:
 
 ## What's Next?
 
-- [Manage your alerts](alerts/create-alert.md)
+- [Receiving alerts](alerts/receiving-alerts.md)
 - [Access your reports](reports/view-reports.md)
