@@ -12,7 +12,7 @@ Learn how to create an alert
 2. Click on the "Alerts" tab in the main navigation menu
 3. Click the "Create New Alert" button in the top right corner
 
-![Access Alerts Page](/img/docusaurus.png)
+![Access Alerts Page](/img/alert1.png)
 
 ## Setting Up Your Alert
 
@@ -44,7 +44,7 @@ Choose how you want to be notified when new businesses match your criteria:
 - Frequency of updates
 - Time of day for notifications
 
-![Alert Form](/img/docusaurus.png)
+![Alert Form](/img/alert2.png)
 
 ## Submitting Your Alert
 
@@ -54,7 +54,7 @@ Once you've filled in all the necessary information:
 2. Click the "Submit" button to create your alert
 3. You'll be redirected to your alerts list where you can see the newly created alert
 
-![Submit Button](/img/docusaurus.png)
+![Submit Button](/img/alert3.png)
 
 ## What's Next?
 

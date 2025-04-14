@@ -12,7 +12,7 @@ Alerts are sent based on the frequency you selected when creating your alert:
 
 - **Daily**: Receive updates once per day
 - **Weekly**: Get a summary of new matches every week
-- **Real-time**: Get immediate notifications when new businesses are found
+- **Monthly**: Get a summary of new matches every month
 
 You can adjust the frequency at any time by editing your alert settings.
 

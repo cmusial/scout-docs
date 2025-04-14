@@ -11,7 +11,8 @@ The Scout Assistant is your AI-powered business search companion. Using natural 
 Search for specific businesses using natural language queries:
 
 ```
-"Find information about Solace Home Integrations in Hawthorne, NY"
+"Find information about Solace Home Integrations in 
+Hawthorne, NY"
 ```
 
 The Assistant will search for the specific business and return detailed information including:
@@ -27,7 +28,8 @@ The Assistant will search for the specific business and return detailed informat
 Search for multiple businesses or types of businesses at once:
 
 ```
-"Show me businesses with the keyword 'electrical' in Westchester"
+"Show me businesses with the keyword 
+'electrical' in Westchester"
 ```
 
 The Assistant will return a list of matching businesses with:

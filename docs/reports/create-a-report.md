@@ -12,7 +12,7 @@ Learn how to create a report.
 2. Click on the "Reports" tab in the main navigation menu
 3. Click the "Create New Report" button in the top right corner
 
-![Access Reports Page](/img/docusaurus.png)
+![Access Reports Page](/img/reports1.png)
 
 ## Setting Up Your Report
 
@@ -46,7 +46,7 @@ Define the geographic area for your search:
 ### Result Limit
 Set the maximum number of results you want to include in your report.
 
-![Report Form](/img/docusaurus.png)
+![Report Form](/img/reports2.png)
 
 ## Submitting Your Report
 
@@ -56,7 +56,7 @@ Once you've filled in all the necessary information:
 2. Click the "Submit" button to create your report
 3. You'll be redirected to your reports list where you can see the newly created report
 
-![Submit Button](/img/docusaurus.png)
+![Submit Button](/img/reports3.png)
 
 ## What's Next?
 

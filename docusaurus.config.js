@@ -90,6 +90,7 @@ const config = {
             label: 'Scout Login',
             href: 'https://scout.solaceintegrations.com',
           },
+          
           {
             type: 'localeDropdown',
             position: 'right'

@@ -26,7 +26,7 @@ function HeroSection() {
           Your intelligent business search tool. Scout tracks, analyzes, and alerts you to new business opportunities across New York state. 
           Be the first to discover emerging companies and market trends with our powerful search and alert platform.
         </p>
-        <Button label="View the Documentation"/>
+        <Button onClick={() =>  window.open('https://solaceintegrations.com', '_blank')} label="View the Documentation"/>
       </div>
     </section>
   );

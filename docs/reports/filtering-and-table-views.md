@@ -13,7 +13,7 @@ This guide will help you understand how to sort, filter, and customize the view 
 3. Click on the report you want to view
 4. The report will open in a table view showing all your results
 
-![Open Report](/img/docusaurus.png)
+![Open Report](/img/viewreport3.png)
 
 ## Sorting Data
 
@@ -24,7 +24,7 @@ You can sort your report data by any column:
 3. Click the column header again to sort in descending order
 4. A small arrow will appear next to the column name indicating the sort direction
 
-![Sort Columns](/img/docusaurus.png)
+![Sort Columns](/img/filter1.png)
 
 ## Using Filters
 
@@ -33,7 +33,7 @@ To access the filtering options:
 1. Click the "Filter" button in the top right of the table
 2. A filter panel will appear on the right side of the screen
 
-![Filter Button](/img/docusaurus.png)
+![Filter Button](/img/filter2.png)
 
 ### Showing/Hiding Columns
 
@@ -43,7 +43,7 @@ In the filter panel, you can customize which columns are visible:
 2. Check or uncheck the boxes next to column names to show or hide them
 3. Changes are applied immediately to the table view
 
-![Column Visibility](/img/docusaurus.png)
+![Column Visibility](/img/filter3.png)
 
 ### Filtering Data
 
@@ -55,7 +55,7 @@ You can filter your data based on specific criteria:
 4. The table will update automatically to show only matching results
 5. You can add multiple filters to narrow down your results further
 
-![Data Filters](/img/docusaurus.png)
+![Data Filters](/img/filter4.png)
 
 ## What's Next?
 
